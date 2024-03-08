@@ -1,0 +1,15 @@
+#Command 1
+ git --version
+  Lets us know the current version of git installed on the system
+#Command 2
+ git clone
+  Used to clone a Github repository to the local machine
+#Command 3
+ git add
+  Used to add files to repository 
+#Command 4
+ git commit
+  Used to commit changes made to a repository with a message
+#Command 5
+ git push
+  Used to push changes made to the repository on the machine to the original repository in Github
