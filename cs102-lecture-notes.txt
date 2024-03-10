@@ -13,3 +13,5 @@
 #Command 5
  git push
   Used to push changes made to the repository on the machine to the original repository in Github
+
+git commands are given on the command line.You can clone a Github repository to your local machine.In Ubuntu,a directory with the same name as the cloned repository is made. You can add files to the repository using the terminal and commands and push the changes to the original repository on Github. You can also make changes to the file in Github and pull thechanges in the file to the local machine.
